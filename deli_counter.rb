@@ -7,7 +7,7 @@ else
     current_line << " #{i}, #{person}"
   end
   puts current_line
-end
+  end
 end
 
 def take_a_number(deli, name)
